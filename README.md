@@ -12,4 +12,4 @@ A Book website design for showing my skill on bootstrap 4.
 ### Screenshot
 
 
-![Screenshot](https://github.com/nerdjfpb/anime-world/blob/master/Mizuxe.PNG)
+![Screenshot](https://github.com/nerdjfpb/Mizuxe/blob/master/Mizuxe.PNG)
